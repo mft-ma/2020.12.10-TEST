@@ -1,0 +1,4 @@
+server:
+  port: 7035
+
+foo: hello github config client ! !
