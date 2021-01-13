@@ -1,4 +1,4 @@
 server:
   port: 7035
 
-foo: hello github config client ! !
+foo: hello github config client ! ! config-client-dev.yml有改变
